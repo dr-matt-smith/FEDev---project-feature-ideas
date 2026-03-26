@@ -1,3 +1,7 @@
+<<<< [back to assessment resources](https://github.com/dr-matt-smith/FEDev---assessment-samples-and-walkthroughs)
+
+---
+
 # FEDev---project-feature-ideas
 
 there are examples of good practice / medium to advanced features in the lecture and lab resources and samples provided for the module on GitHub:
@@ -36,3 +40,4 @@ A TODO list (simulated in-memory database) example is developed in 5 stages, bas
 
 - https://github.com/dr-matt-smith/FEDev-form-validation-with-user-error-messages--stage-1
 
+![stick form validation with error messages](/images/60_sticky_form_contents.png)
