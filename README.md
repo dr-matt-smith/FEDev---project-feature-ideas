@@ -29,3 +29,10 @@ In this sample project an illustrationm of custom erorr pages (`+error.svelte` a
 - https://github.com/dr-matt-smith/FED-custom-error-pages
 
 ![screenshot - custom 404 error page](/images/4_custom_404_page.png)
+
+
+## example - form validation with sticky forms
+A TODO list (simulated in-memory database) example is developed in 5 stages, based on one of the SvelteKit tutorials about form validation and error messages:
+
+- https://github.com/dr-matt-smith/FEDev-form-validation-with-user-error-messages--stage-1
+
